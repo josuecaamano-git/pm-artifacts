@@ -8,9 +8,10 @@ This folder contains sample **Product Requirements Documents (PRDs)** that I use
 
 | File | Description |
 |------|--------------|
-[Software-Product-Requirements-Template.docx](https://github.com/user-attachments/files/23261205/Software-Product-Requirements-Template.docx) | General-purpose PRD used for feature-level documentation |
+| [Software-Product-Requirements-Template.docx](https://github.com/user-attachments/files/23263839/Software-Product-Requirements-Template.docx) | General-purpose PRD used for feature-level documentation |
 
 > Files are provided in `.docx` format for easy editing and reuse.
 ---
 
 *End of document.*
+
