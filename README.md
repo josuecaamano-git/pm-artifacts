@@ -19,12 +19,4 @@ Each file or folder represents a reusable artifact — from PRDs and OKRs to pri
 
 ---
 
-## 💡 Usage
-
-- **Templates:** ready to copy and adapt.  
-- **Examples:** anonymized documents inspired by real projects.  
-- **Frameworks:** structured guides to apply consistently across teams.
-
-Each artifact includes a short description, context of use, and version/date.
-
 _Last updated: October 2025_
