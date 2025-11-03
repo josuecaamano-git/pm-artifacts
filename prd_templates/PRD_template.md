@@ -10,7 +10,7 @@ This folder contains sample **Product Requirements Documents (PRDs)** that I use
 |------|--------------|
 | [Software-Product-Requirements-Template.docx](https://github.com/user-attachments/files/23263839/Software-Product-Requirements-Template.docx) | General-purpose PRD used for feature-level documentation |
 
-![PRD preview](./PRD-template.png")
+![PRD preview](PRD-template.png")
 ---
 
 
