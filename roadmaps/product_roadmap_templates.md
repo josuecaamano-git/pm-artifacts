@@ -9,8 +9,7 @@ Provide a structured way to represent the roadmap of products or features.
 | [Agile-Product-Roadmap-Template.xlsx](https://github.com/user-attachments/files/23261722/Agile-Product-Roadmap-Template.xlsx) | Spreadsheet to visualize a product roadmap in an Agile context |
 | [Features-Roadmap-Template.xlsx](https://github.com/user-attachments/files/23261723/Features-Roadmap-Template.xlsx) | Spreadsheet to represent the roadmap at feature level |
 
-> Each template focuses on clarity, alignment, and adaptability for distributed teams.
+![Multipe Products Roadmap](./Multiple-Product-Roadmap-Template.png)
+![Agile Product Roadmap](./Agile-Product-Roadmap-Template.png)
 
 ---
-
-_Last updated: October 2025_
